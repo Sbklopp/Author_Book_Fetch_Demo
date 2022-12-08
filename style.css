@@ -1,0 +1,33 @@
+.col {
+    padding-left: 9px;
+    padding-bottom: 15px;
+
+}
+
+.row {
+    padding-left: 35px;
+    padding-bottom: 15px;
+}
+
+.out { 
+    text-align: right;
+    padding-right: 7px;
+
+}
+body {
+    background-color: rgb(245, 236, 205);
+    font-family:'Lucida Sans', 'Lucida Sans Regular' ;
+    font-size: 23px;
+    padding-left: 9px;
+    color: black;
+    padding-bottom: 15px;
+    
+  }
+  
+  h6 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    color: black;
+    padding-left: 2px;
+    padding-bottom: 10px;
+  }
